@@ -94,3 +94,5 @@ target/
 
 # exclude data from source control by default
 # /data/
+notebooks/godlike_finances.xlsx
+notebooks/~$godlike_finances.xlsx
