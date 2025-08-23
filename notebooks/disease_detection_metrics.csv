@@ -1,0 +1,5 @@
+Metric,Value (%),Description
+Accuracy,97.5,Percentage of correct predictions (healthy and diseased leaves).
+Precision,97.14,Proportion of positive (diseased) predictions that are correct.
+Recall,98.08,Proportion of actual diseased leaves correctly identified.
+F1 Score,97.61,"Harmonic mean of precision and recall, balancing both metrics."
