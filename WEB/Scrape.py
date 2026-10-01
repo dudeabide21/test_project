@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from requests.bs4 import BeautifulSoup
 
 response = requests.get(
     "https://www.geeksforgeeks.org/python/python-programming-language-tutorial/"
